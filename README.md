@@ -214,7 +214,6 @@ This is an educational project. Use at your own risk. Not suitable for productio
 
 **Commands not working:**
 - Some commands are partially implemented
-- Check syntax with `man <command>` (if implemented)
 
 ## 📚 Resources
 
