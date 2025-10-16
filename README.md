@@ -221,6 +221,9 @@ This is an educational project. Use at your own risk. Not suitable for productio
 - [NASM Documentation](https://www.nasm.us/docs.php)
 - [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
+## Next expected updates 
+In Future K122P and K122E will lose support
+
 ---
 
 **Made with ☕ and lots of assembly code!**
